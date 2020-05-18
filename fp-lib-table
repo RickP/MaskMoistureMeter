@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name maskmeter)(type KiCad)(uri ${KIPRJMOD}/maskmeter.pretty)(options "")(descr ""))
+)
