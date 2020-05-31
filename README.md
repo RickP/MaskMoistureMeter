@@ -7,7 +7,7 @@ The faster is blinks and the higher the beepers pitch the more moisture is in yo
 
 Replace and/or wash moist masks immediately as wearing a wet mask is dangerous to your health.
 
-The electronics was designed in kicad and has all information tor order it assembled from JLCPCB.
+The electronics was designed in kicad and has all information tor order it assembled from JLCPCB. The PCB has to have a thickness of 1mm in order to fit into the included case design.
 
 [See it in action here](https://www.youtube.com/watch?v=SBzcOsZzkjE)
 
