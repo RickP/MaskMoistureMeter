@@ -7,3 +7,4 @@ The faster is blinks and the higher the beepers pitch the more moisture is in yo
 
 Replace and/or wash moist masks immediately as wearing a wet mask is dangerous to your health.
 
+![Meter in case](https://github.com/RickP/MaskMoistureMeter/blob/master/images/Case_front.jpg?raw=true)
