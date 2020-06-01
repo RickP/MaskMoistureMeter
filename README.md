@@ -29,10 +29,10 @@ The electronics was designed in KiCad and has all information tor order it assem
 ### BT1
 Battery holder for a CR2032 coin cell. Alternative to LCSC part: Keystone 1060.
 
-## BZ1
+### BZ1
 The buzzer. Murata PKMCS0909E4000-R1 - can be left out for LED indication only.
 
-## C1 and C2
+### C1 and C2
 100nf 0603 capacitor. Use any one with at least 5% tolerance and 6.3V voltage rating.
 
 ### D1 and D2
