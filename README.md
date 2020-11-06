@@ -54,7 +54,7 @@ You can use: TLC555CDR, TLC555IDR, TLC555QDR or TLC555CD
 
 ## Video Demo
 
-[See it in action here](https://www.youtube.com/watch?v=SBzcOsZzkjE)
+[See it in action here](https://www.youtube.com/watch?v=zS53NGnmHDQ)
 
 ## Assembled device in case
 
